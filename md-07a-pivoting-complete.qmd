@@ -114,6 +114,7 @@ waste_data_long_mean <- waste_data_long |>
 
 ```{r}
 waste_data_long_mean
+
 ```
 
 ## Task 4: From long to wide
